@@ -8,3 +8,6 @@ This version is a C program that uses the ncurses library to do the same. A whit
 References:
 Payne, B., Marquez, M. (2021). BrightSiPhon: Hacking Air-Gapped Systems. Hacker Halted 2021. Atlanta, GA. October 7-8, 2021.
 https://github.com/brysonpayne/BrightSiPhon
+
+HackerHalter2021: BrightSiPhon: Hacking Air-Gapped Systems
+https://www.hackerhalted.com/featured-speaker-bryson-payne/
